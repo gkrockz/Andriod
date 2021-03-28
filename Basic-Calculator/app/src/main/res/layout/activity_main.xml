@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:paddingTop="10dp"
+    android:paddingRight="10dp"
+    android:paddingLeft="10dp"
+    android:paddingBottom="10dp"
+    android:backgroundTint="@color/teal_700"
+    android:layout_centerInParent="true"
+    >
+<EditText
+    android:id="@+id/num1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:hint="Number 1"
+    android:layout_marginBottom="10dp"
+    android:layout_centerHorizontal="true"
+
+    />
+<EditText
+    android:id="@+id/num2"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:hint="Number 2"
+    android:layout_centerHorizontal="true"
+    android:layout_below="@+id/num1"
+    />
+    <Button
+        android:id="@+id/add"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="Add"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/num2"
+        android:layout_marginTop="20dp"
+        android:paddingTop="10dp"
+        app:backgroundTint="#CB050203" />
+    <Button
+        android:id="@+id/sub"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="Subtract"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/add"
+        android:paddingTop="10dp"
+        app:backgroundTint="#CB050203" />
+    <Button
+        android:id="@+id/mul"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="Multiply"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/sub"
+        android:paddingTop="10dp"
+        app:backgroundTint="#CB050203" />
+    <Button
+        android:id="@+id/div"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="Divide"
+        android:layout_centerHorizontal="true"
+        android:paddingTop="10dp"
+        android:layout_below="@id/mul"
+        app:backgroundTint="#CB050203" />
+
+    <TextView
+        android:id="@+id/result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:paddingTop="100dp"
+        android:fontFamily="sans-serif-thin"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="#1E8CE3"
+        android:layout_below="@id/div"
+        android:text="Result" />
+
+</RelativeLayout>
