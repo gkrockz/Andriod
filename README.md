@@ -1,5 +1,4 @@
-# Andriod
-Repo For Andriod Projects
+📇 Index For Exps : 
 
 1. Activity Life Cycle - [Click Here](https://github.com/gkrockz/Andriod/tree/main/ActivityLifeCycle)
 
