@@ -3,7 +3,7 @@
 > A Simple ListView That Displays All The Angry Bird Characters.
 
 <p align="center">
-	<img src="Img/Snap.png" width="60%" height="60%">
+	<img src="Img/Snap.png" width="30%" height="30%">
 </p>	
 
 ---
