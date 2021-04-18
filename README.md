@@ -6,4 +6,4 @@
 
 3. Basic-Calculator - [Click Here](https://github.com/gkrockz/Andriod/tree/main/Basic-Calculator/app)
 
-4. ListView - [Click Here](https://github.com/gkrockz/Andriod/tree/main/ListView/app)
+4. ListView - [Click Here](https://github.com/gkrockz/Andriod/tree/main/ListView)
