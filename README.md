@@ -1,4 +1,4 @@
-## 📇 Index For Exps : 
+## 📇 Index For Repo : 
 
 1. Activity Life Cycle - [Click Here](https://github.com/gkrockz/Andriod/tree/main/ActivityLifeCycle/app)
 
