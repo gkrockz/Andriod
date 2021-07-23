@@ -3,8 +3,8 @@
 > App that saves the login info in the form of key-value pairs.
 
 <p align="center">
-    <img src="ImgSrc/Snap.png" width="30%" height="30%">
+    <img src="ImgSrc/Snap.jpg" width="20%" height="20%">
 </p>	
 
 ---
-💠 For More Reference About ListView ,Visit Here : [Shared-Preferences](https://developer.android.com/reference/android/content/SharedPreferences)
+💠 For More Reference, Visit Here : [Shared-Preferences](https://developer.android.com/reference/android/content/SharedPreferences)
