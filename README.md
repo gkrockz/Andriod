@@ -10,8 +10,10 @@
 
 5. MailComposer - [Click Here](https://github.com/gkrockz/Andriod/tree/main/MailComposer/app)
 
-6. Services - [Click Here](https://github.com/gkrockz/Andriod/tree/main/Services)
+6. Notifications - [Click Here](https://github.com/gkrockz/Andriod/tree/main/Notifications)
 
-7. Shared Preferences - [Click Here](https://github.com/gkrockz/Andriod/tree/main/SharedPreferences)
+7. Services - [Click Here](https://github.com/gkrockz/Andriod/tree/main/Services)
 
-8. SQLite - [Click Here](https://github.com/gkrockz/Andriod/tree/main/SQLite)
+8. Shared Preferences - [Click Here](https://github.com/gkrockz/Andriod/tree/main/SharedPreferences)
+
+9. SQLite - [Click Here](https://github.com/gkrockz/Andriod/tree/main/SQLite)
